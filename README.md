@@ -14,7 +14,7 @@
 |type|text|not null|直播类型<sup>[2]</sup>|
 |role|text| |出场成员<sup>[3]</sup>|
 |episode|integer|not null|系列直播期数<sup>[4]</sup>|
-|describe|text| |直播描述|
+|describe|text| |备注|
 
 [1] 直播时间采用yyyy-MM-dd格式存储，并非时间戳。
 
