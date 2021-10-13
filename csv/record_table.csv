@@ -1,4 +1,4 @@
-record_id,title,time,type,role,episode,describe
+id,title,live_time,type,show_member,episode,remark
 1,全团首播,2020-12-11,9,A B C D E,0,全团首播
 2,来和嘉然一起玩吧~,2020-12-12,1,D,0,嘉然首播
 3,今天和嘉然一起画画吧~,2020-12-15,1,D,0,
